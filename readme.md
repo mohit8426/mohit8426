@@ -1,7 +1,7 @@
 # Hi there, I'm Mohit Kulkarni! 👋
 
 ## 🚀 About Me
-I'm a passionate developer and student at [Your University or College] in Arlington, TX. My work spans various domains, including AI, web development, and distributed systems, showcasing my versatility and keen interest in computer science.
+I'm a passionate developer and student at The University of Texas at Arlington , TX. My work spans various domains, including AI, web development, and distributed systems, showcasing my versatility and keen interest in computer science.
 
 👨‍💻 Exploring new technologies and developing innovative solutions
 🧠 Continuously learning about AI, Big Data, and Cloud Computing
