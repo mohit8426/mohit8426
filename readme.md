@@ -13,10 +13,19 @@ I'm a passionate developer and student at The University of Texas at Arlington, 
 - 🌐 Visit my portfolio: [Mohit Kulkarni's Portfolio](https://mohit8426.github.io/mohit-portfolio/)
 
 ## 🛠 Skills
-- Python, Java, C++, JavaScript, React
-- HTML, CSS, AWS, Docker, Apache, phpMyAdmin, Jenkins
-- SQL, Bash, MySQL
-- Web Development (EJS), Machine Learning, Distributed Systems
+- Software Engineering, Full Stack Development, Database Systems
+- Data Analysis, Machine Learning, Algorithms Design
+- Artificial Intelligence, Web Data Management, Cloud Computing
+- Big Data, Distributed Systems, PHP, MySQL, Python
+- OOP Design Patterns, HTML5, CSS, PHP Frameworks (Symfony2, Laravel, CakePHP, Zend)
+- Test Driven Development, Object Oriented Programming (OOP), SDLC
+- UI Development, RESTful API Development, Spring, Spring Boot
+- AWS Lambda, DynamoDB, AWS Cognito, API Gateway
+- SQL, React, Laravel, NoSQL, JavaScript, PHP, Bash, GoLang
+- SQLite, phpMyAdmin, MongoDB, Developer Tools (MongoDB, Apache, VS Code, Eclipse, Google Colab, GitHub, Android Studio)
+- Libraries (Numpy, Pandas, NLP, Image Processing, TensorFlow, Tesseract, PyTorch, Keras)
+- Cloud Services (AWS, Map Reduce, Scala, Terraform, Hive, Jenkins CI/CD)
+- Operating Systems (Windows, Linux), Web Development (EJS), React, Redux, Java Spring Boot
 
 ## 📈 My GitHub Stats
 
