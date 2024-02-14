@@ -39,17 +39,15 @@ I'm a passionate developer and student at The University of Texas at Arlington, 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohit8426&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 🧩 Activity Graph
-![Mohit's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohit8426&bg_color=141321&color=fe428e&line=9d72e5&point=f8d847&area=true&hide_border=true)
 
 ## 💼 Professional Experience
 - Member at [UTA Students Organization](https://www.linkedin.com/company/utastudents/)
 
 ## 🌟 Highlighted Projects
-(Insert your projects here with links and brief descriptions as desired.)
+
 
 ## 📚 Latest Blog Posts
-<!-- Add links to your blog posts here -->
+
 
 ## 📫 How to Reach Me
 - LinkedIn: [Mohit Kulkarni](https://www.linkedin.com/in/mohit-kulkarni27/)
